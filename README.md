@@ -24,4 +24,5 @@ Creating wordpress theme using following tools
 * Clone repository in wp-cotent/themes folder
 * Run npm install
 * Run bower install
+* Install webpack globaly `npm install webpack -g`
 * Check http://localhost/wordpress
