@@ -7,6 +7,8 @@ Creating wordpress theme using following tools
 * **[AngularJs](https://angularjs.org/)**, Superheroic JavaScript MVW Framework
 * **[Jasmine](http://jasmine.github.io/)** is a Behavior Driven Development testing framework for JavaScript.
 * **[Karma](http://karma-runner.github.io/0.13/index.html)**, Spectacular Test Runner for Javascript by AngularJs team.
+* **Bootstrap**
+* **Bower**
 
 #### Prerequisite
 * Wordpress
