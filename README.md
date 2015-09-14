@@ -18,7 +18,9 @@ Creating wordpress theme using following tools
 
 #### Install
 * Download and install WAMP/XAMPP
+* Run WAMP/XAMPP
 * Download Wordpress, extract it in the root directory
 * Clone repository in wp-cotent/themes folder
 * Run npm install
+* Run bower install
 * Check http://localhost/wordpress
