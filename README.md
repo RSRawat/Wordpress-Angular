@@ -9,6 +9,7 @@ Creating wordpress theme using following tools
 * **[Karma](http://karma-runner.github.io/0.13/index.html)**, Spectacular Test Runner for Javascript by AngularJs team.
 * **Bootstrap**
 * **Bower**
+* **Webpack**
 
 #### Prerequisite
 * Wordpress
