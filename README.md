@@ -10,6 +10,7 @@ Creating wordpress theme using following tools
 * **Bootstrap**
 * **Bower**
 * **Webpack**
+* **Prerender.io**
 
 #### Prerequisite
 * Wordpress
