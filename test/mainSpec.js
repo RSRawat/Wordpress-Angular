@@ -9,7 +9,7 @@ describe('Testing main.js', function() {
 	});
 
 	it('newStudent name should change', function() {
-		newStudent.name = 'jabong';
+		newStudent.setName('jabong');
 		expect(newStudent.name).toBe('jabong');
 	});
 });
