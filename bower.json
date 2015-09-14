@@ -1,0 +1,35 @@
+{
+  "name": "wordpress-angular",
+  "version": "1.0.0",
+  "homepage": "https://github.com/RSRawat/wordpress-angular",
+  "description": "Wordpres theme using angular js and JSON API (Wordpress plugin)",
+  "keywords": [
+    "wordpress",
+    "theme",
+    "angular",
+    "json",
+    "api",
+    "babel",
+    "gulp",
+    "webpack"
+  ],
+  "authors": [
+    "Ravinder Singh Rawat"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/vendor/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-ui-router": "~0.2.15",
+    "angular-mocks": "~1.4.5"
+  }
+}
